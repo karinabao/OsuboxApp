@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Your Favorite Leagues are Now Free",
+    "subTitle": "Stream any sport of your choice when you want and how you want—and for free. The most accessible streaming service to date.",
+    "image": "/images/misc/frisbee.jpg",
+    "alt": "Live Stream Ultimate Frisbee Championships",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Cheers and Tears - Unfiltered",
+    "subTitle": "Bringing visibility to previously uncelebrated passions. Challenging the norm by challenging the conventional approach.",
+    "image": "/images/misc/key-peele@2x.png",
+    "alt": "Celebrity Commentary",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Engage with Others",
+    "subTitle": "Bet it All, With Them All. A home where no story is too small nor too unconventional to exist. Join us in redefining the ‘mainstream’.",
+    "image": "/images/misc/betting.png",
+    "alt": "Bet on your favorite alternative sports teams",
+    "direction": "row"
+  }
+]
